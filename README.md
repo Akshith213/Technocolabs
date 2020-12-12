@@ -11,7 +11,7 @@ Technocolabs internship
 ### Some sample images of the deployment:
 ![Screenshot (275)](https://user-images.githubusercontent.com/55051841/101986671-358b4980-3cb5-11eb-842e-ddcbf1bc5bf2.png)
 
-After prediction:
+#### After prediction:
 ![Screenshot (276)](https://user-images.githubusercontent.com/55051841/101986712-8dc24b80-3cb5-11eb-8a20-1e7019de9abe.png)
 
 
